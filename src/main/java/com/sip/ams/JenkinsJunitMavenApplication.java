@@ -12,7 +12,7 @@ public class JenkinsJunitMavenApplication {
 		System.out.println("Le calcul donne : " +Calculatrice.somme(10, 5));
 		System.out.println("Le calcul donne : " +Calculatrice.produit(10, 5));
 		
-		System.out.println("Fin du programme : V2.1.1");
+		System.out.println("Fin du programme : V2.2.1");
 	}
 
 }
